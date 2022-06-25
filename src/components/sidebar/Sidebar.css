@@ -1,0 +1,33 @@
+.side-bar {
+    background-color: #3326ae;
+    border-radius: 45px;
+    height: 100%;
+}
+
+.nav .icon {
+    width: 25px;
+    font-size: 20px !important;
+}
+
+.nav .nav-item {
+    color: white;
+    cursor: pointer;
+}
+
+.nav .nav-item:hover {
+    background-color: white;
+    color: #2c2c2c;
+}
+
+.nav .nav-item:hover .icon {
+    color: #ff6161;
+}
+
+.nav .active li {
+    background-color: white;
+    color: #2c2c2c;
+}
+
+.nav .active li .icon {
+    color: #ff6161;
+}

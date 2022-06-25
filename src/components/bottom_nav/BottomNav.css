@@ -1,0 +1,16 @@
+.bottom-nav {
+    background-color: #3326ae;
+}
+
+.bottom-nav .icon {
+    cursor: pointer;
+    color: #b8b1f9;
+}
+
+.bottom-nav i:hover .icon {
+    color: white;
+}
+
+.bottom-nav .active .icon {
+    color: white;
+}
